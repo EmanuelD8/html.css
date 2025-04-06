@@ -1,0 +1,3 @@
+p:nth-child(odd){color: #63C;}
+p:nth-child(even){color: #F03;}
+
